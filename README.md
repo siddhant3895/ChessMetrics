@@ -1,6 +1,6 @@
-# ♟️ChessMetrics Pipeline-----------
+# ♟️ChessMetrics -----------
 
-A Python-based data engineering pipeline designed to parse, clean, and analyze personal PGN match history—specifically tracking performance against Chess.com computer personalities.
+This is a Python-based data engineering pipeline designed to parse, clean, and analyze personal PGN match history—specifically tracking performance against Chess.com computer personalities.
 
 Whether you are analyzing your tactical blind spots or mapping out trends against specific bot personalities, this pipeline extracts raw game logs and turns them into clean, structured data.
 
