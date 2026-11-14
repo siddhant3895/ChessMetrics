@@ -9,11 +9,11 @@ Whether you are analyzing your tactical blind spots or mapping out trends agains
 ## Features----
 
 * **PGN Parsing Engine:** Efficiently processes raw `.pgn` files to extract key metadata (openings, move counts, elo ratings, and game outcomes).
-* 
+
 * **Bot Personality Tracking:** Tailored detection for Chess.com computer opponents to analyze which playstyles give you the most trouble.
-* 
+  
 * **Data Cleanup:** Automatically strips out junk formatting, handling incomplete games or anomalies cleanly.
-* 
+
 * **Ready-to-Use Datasets:** Includes a sample data pipeline framework to test features out of the box.
 
 ---
